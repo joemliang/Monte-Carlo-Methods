@@ -1,4 +1,4 @@
-monte_carlo_methods
+Monte Carlo Methods - UCLA STAT 200C - Spring 14
 ===
 
-Material here is from my TA for UCLA course - Monte Carlo Methods.
+Material here are from my TA for UCLA course - Monte Carlo Methods.
